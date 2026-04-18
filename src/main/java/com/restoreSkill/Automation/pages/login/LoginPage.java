@@ -5,7 +5,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
-import com.restoreSkill.Automation.locators.login.LoginPageLocators;
+import com.restoreSkill.Automation.locators.LoginPageLocators;
 import com.restoreSkill.Automation.utils.ConfigReader;
 
 public class LoginPage {

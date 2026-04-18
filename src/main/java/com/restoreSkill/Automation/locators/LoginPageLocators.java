@@ -1,4 +1,4 @@
-package com.restoreSkill.Automation.locators.login;
+package com.restoreSkill.Automation.locators;
 
 public final class LoginPageLocators {
     private LoginPageLocators() {
